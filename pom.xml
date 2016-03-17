@@ -13,10 +13,10 @@
 	</parent>
 	
 	<modules>
-		<module>../web-service</module>
-		<module>../discovery-service</module>
-		<module>../account-service</module>
-		<module>../product-service</module>
+		<module>../poc-account</module>
+		<module>../poc-discovery</module>
+		<module>../poc-web</module>
+		<module>../poc-product</module>
 	</modules>
 
 	<dependencies>
